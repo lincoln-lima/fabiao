@@ -1,0 +1,83 @@
+body {
+    margin: 0 8%;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.urbanist {
+    font-family: 'Urbanist', sans-serif;
+}
+
+.inconsolata {
+    font-family: 'Inconsolata', monospace;
+}
+
+h1 {
+    background-color: #59381B;
+    border-radius: 40px;
+    color: white;
+    display: inline-block;
+    padding: 2% 5%;
+    font-size: 140%;
+}
+
+h2, h3 {
+    color: #59381B;
+    margin: 4% 0 2% 0;
+}
+
+.fonte-media {
+    font-size: 1.4rem;
+}
+
+p {
+    text-align: justify;
+    margin: 1% 0;
+    font-size: 1.1rem;
+}
+
+#img-fabio {
+    margin-bottom: 15%;
+}
+
+#img-fabio a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
+
+.margem-grande {
+    margin-top: 15%;
+}
+
+.margem-media {
+    margin-top: 10%;
+}
+
+.margem-pequena {
+    margin-top: 5%;
+}
+
+#estrelas {
+    font-size: 200%;
+}
+
+.avaliadores {
+    display: flex;
+    justify-content: start;
+    align-items: flex-end;
+}
+
+.img-avaliadores {
+    margin-right: 2%;
+}
+
+#agradecimento {
+    font-size: 110%;
+}
+
+footer {
+    padding-bottom: 5%;
+}
